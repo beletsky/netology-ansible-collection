@@ -1,0 +1,6 @@
+---
+# tasks file for create_file
+- name: Create file
+  ppr_ru.learning.my_own_module:
+    path: "{{ path }}"
+    content: "{{ content }}"

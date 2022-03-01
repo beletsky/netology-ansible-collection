@@ -1,0 +1,15 @@
+namespace: ppr_ru
+name: learning
+version: 1.0.0
+readme: README.md
+authors:
+- Andrey Beletsky <abeletskiy@ppr.ru>
+description: Netology learning collection
+license:
+- MIT
+tags: []
+dependencies: {}
+build_ignore:
+  - playbooks
+  - playbooks/site.yml
+  - plugins/README.md

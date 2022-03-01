@@ -1,0 +1,11 @@
+galaxy_info:
+  author: Andrey Beletsky
+  description: Create a text file with given content
+  company: Software Product Group
+  license: MIT
+  namespace: ppr_ru
+  role_name: create_file
+
+  min_ansible_version: 2.1
+  galaxy_tags: []
+dependencies: []
